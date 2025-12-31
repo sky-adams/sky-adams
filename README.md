@@ -1,6 +1,6 @@
 # Sky Adams
 
-Aspiring Data Scientist | Passionate About Climate Tech, Renewables, & Conservation | Python, ML, Data Analytics | CS Educator → Remote DS Roles
+Aspiring Data Scientist | Passionate about Climate Tech, Conservation, Education, Social Justice, & Healthcare | Python, ML, Data Analytics | CS Educator → Remote DS Roles
 
 CS teacher with 10 years experience transitioning to data science via Udacity Nanodegrees. Lifelong learner. Open to remote roles in Santa Barbara, CA.
 
